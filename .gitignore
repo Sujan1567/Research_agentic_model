@@ -1,0 +1,9 @@
+# Make this file FIRST, before you create .env.
+# If you create .env first and commit it, the key is already in the
+# history and deleting the file later will not remove it.
+
+.env
+__pycache__/
+*.pyc
+.venv/
+venv/
